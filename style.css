@@ -1,0 +1,143 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(204, 200, 196);
+    margin: 0px;
+    padding: 0px;
+    margin-top: 0px;
+}
+
+header div{
+   
+    
+}
+
+
+
+body header {
+    margin: 5px;
+    background-image: url("/Users/nico/Documents/BTS SIO VSCode Dev/Portfolio Perso/Images/AdobeStock_348397404_Cropped_1500x850-768x435.jpg");
+    border: solid 2px black;
+    border-radius: 10px;
+    width: 100%;
+    
+}
+
+header h1 {
+    text-align: center;
+    padding-top: 30px;
+    color: white;
+    padding-bottom: 30px;
+    
+    
+}
+
+nav {
+
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(13, 21, 23);
+    border-radius: 10px;
+    width: fit-content;
+    box-shadow: 10px;
+    
+}
+
+nav ul {
+    list-style-type: none;
+    text-align: center;
+    padding: 10px;
+
+}
+
+li {
+    width: fit-content;
+}
+
+nav li {
+    display: inline-block;
+    text-align: center;
+    padding-inline: 0px;
+    margin-inline: 0px;
+    font-weight: bold;
+}
+
+body li a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    
+}
+
+main li a {
+    text-decoration: none;
+    color: black;
+}
+
+.slctpg {
+    color: rgb(245, 161, 57);
+}
+
+nav a:hover {
+    color: black;
+    background-color: whitesmoke;
+}
+
+nav a {
+    padding: 10px;
+}
+
+main {
+    background-color: rgb(199, 199, 199);
+    margin: 10px;
+}
+
+.bgul {
+    background-color: rgb(186, 186, 186);
+    width: fit-content;
+    padding: 10px;
+}
+
+footer {
+    background-color: black;
+    width: 100%;
+    color: white;
+    text-align: center;
+    font-size: x-small;
+    box-sizing: content-box;
+    box-decoration-break: inherit;
+    padding: 10px;
+    margin-bottom: 0px;
+}
+
+.textecentre {
+    text-align: center;
+    align-content: center;
+}
+
+.cadre {
+    border-image: 12px;
+}
+
+.titre {
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+.indent {
+    text-indent: 10px;
+}
+
+.container {
+    height: auto;
+}
+
+.sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
+
+.securemarge {
+    margin-top: 25px;
+}
