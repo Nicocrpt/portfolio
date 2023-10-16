@@ -14,20 +14,20 @@ header div{
 
 
 body header {
-    margin: 5px;
-    background-image: url("/Users/nico/Documents/BTS SIO VSCode Dev/Portfolio Perso/Images/AdobeStock_348397404_Cropped_1500x850-768x435.jpg");
+    width: auto;
+    margin: 0;
+    display: flexbox;
+    background-image: url("/Users/nico/Documents/BTS SIO VSCode Dev/Portfolio Perso/Images/Matrix-numbers-code-background-679576.jpg");
     border: solid 2px black;
-    border-radius: 10px;
-    width: 100%;
+    
+    
     
 }
 
 header h1 {
     text-align: center;
-    padding-top: 30px;
     color: white;
-    padding-bottom: 30px;
-    
+    padding: 30px;
     
 }
 
@@ -37,7 +37,7 @@ nav {
     text-align: center;
     justify-content: center;
     align-items: center;
-    background-color: rgb(13, 21, 23);
+    background-color: rgba(13, 21, 23, 0.88);
     border-radius: 10px;
     width: fit-content;
     box-shadow: 10px;
@@ -79,8 +79,8 @@ main li a {
 }
 
 nav a:hover {
-    color: black;
-    background-color: whitesmoke;
+    color: rgb(245, 161, 57);
+    background-color: rgba(13, 21, 23, 0.88);
 }
 
 nav a {
