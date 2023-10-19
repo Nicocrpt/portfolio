@@ -4,20 +4,15 @@ body {
     margin: 0px;
     padding: 0px;
     margin-top: 0px;
+    min-height: 100vh;
 }
-
-header div{
-   
-    
-}
-
 
 
 body header {
     width: auto;
     margin: 0;
     display: flexbox;
-    background-image: url("/Users/nico/Documents/BTS SIO VSCode Dev/Portfolio Perso/Images/Matrix-numbers-code-background-679576.jpg");
+    background-image: url("/Users/nico/Documents/BTS SIO VSCode Dev/Portfolio Perso/Images/webdevheader.jpeg");
     border: solid 2px black;
     
     
@@ -32,7 +27,6 @@ header h1 {
 }
 
 nav {
-
     margin: auto;
     text-align: center;
     justify-content: center;
@@ -48,6 +42,7 @@ nav ul {
     list-style-type: none;
     text-align: center;
     padding: 10px;
+    margin: 0;
 
 }
 
@@ -79,7 +74,7 @@ main li a {
 }
 
 nav a:hover {
-    color: rgb(245, 161, 57);
+    color: rgb(254, 179, 88);
     background-color: rgba(13, 21, 23, 0.88);
 }
 
@@ -107,6 +102,7 @@ footer {
     box-sizing: content-box;
     box-decoration-break: inherit;
     padding: 10px;
+    margin-top: auto;
     margin-bottom: 0px;
 }
 
@@ -135,9 +131,67 @@ footer {
 .sticky {
     position: -webkit-sticky;
     position: sticky;
-    top: 0;
+    top: 10px;
 }
 
 .securemarge {
     margin-top: 25px;
+}
+
+#nomarge {
+    margin: 0;
+}
+
+textarea {
+    border-radius: 3px;
+}
+
+main {
+    margin: 0 20px 0 20px;
+    padding: 0;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+}
+
+
+
+main div li {
+    align-content: center;
+    margin: auto;
+    list-style-type: none;
+    padding: 5px;
+}
+
+main div li a:hover {
+    color: aliceblue;
+    background-color: rgb(104, 104, 104);
+    padding: 2px;
+    border-radius: 3px;
+}
+
+.centerimage {
+    margin: auto;
+}
+
+#divforma {
+    width: fit-content;
+    margin: auto;
+}
+
+.centercontent {
+    margin: auto;
+    padding: 5px;
+}
+
+#isolate {
+    margin: 20px;
+}
+
+img {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    width: 90%;
 }
