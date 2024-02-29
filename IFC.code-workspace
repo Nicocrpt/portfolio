@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../IFC"
+		},
+		{
+			"path": "../../IFC/Dev Kurtz/SQL"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Portfolio Perso"
+	}
+}

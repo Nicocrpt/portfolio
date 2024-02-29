@@ -1,10 +1,6 @@
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: rgb(204, 200, 196);
-    margin: 0px;
-    padding: 0px;
-    margin-top: 0px;
-    min-height: 100vh;
+    
 }
 
 
@@ -12,7 +8,7 @@ body header {
     width: auto;
     margin: 0;
     display: flexbox;
-    background-image: url("/Users/nico/Documents/BTS SIO VSCode Dev/Portfolio Perso/Images/webdevheader.jpeg");
+    background-image: url("./Images/webdevheader.jpeg");
     border: solid 2px black;
     
     
@@ -75,7 +71,7 @@ main li a {
 
 nav a:hover {
     color: rgb(254, 179, 88);
-    background-color: rgba(13, 21, 23, 0.88);
+    /* background-color: rgba(13, 21, 23, 0.88); */
 }
 
 nav a {
@@ -83,7 +79,7 @@ nav a {
 }
 
 main {
-    background-color: rgb(199, 199, 199);
+    /* background-color: rgb(199, 199, 199); */
     margin: 10px;
 }
 
@@ -126,6 +122,11 @@ footer {
 
 .container {
     height: auto;
+    background-color: rgb(204, 200, 196);
+    margin: 0px;
+    padding: 0px;
+    margin-top: 0px;
+    min-height: 100vh;
 }
 
 .sticky {
@@ -194,4 +195,5 @@ img {
     justify-content: center;
     margin: auto;
     width: 90%;
+    border-radius: 5px;
 }
