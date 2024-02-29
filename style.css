@@ -156,7 +156,12 @@ main {
     align-content: center;
 }
 
-
+address {
+    color : white;
+    margin-left: 8px ;
+    margin-bottom: 8px;
+    margin-top: 0px;
+}
 
 main div li {
     align-content: center;
