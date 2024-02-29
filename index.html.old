@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio - Nicolas Carpita</title>
+    <meta name="description" content = "developpeur Backend et Frontend prêt à developper votre projet"/>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body class="container">
+
+    <header>
+        <div>
+            <h1> Nicolas CARPITA - Developpeur FullStack</h1>
+        </div>
+        <address>
+            83 rue de la rue<br>
+            84000 Rue <br>
+            Tel : 01.23.45.67.89
+        </address>
+     
+    </header>
+
+    <br>
+
+    <nav class="sticky">
+
+                <ul>
+                    <li><a class="slctpg" href="index.html">Accueil</a></li>
+                    <li><a href="mes projets.html">Mes Projets</a></li>
+                    <li><a href="formation.html">Formation & Compétences</a></li>
+                    <li><a href="divers.html">Divers</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+
+    </nav>
+        
+
+    <main>
+        <br>
+        <div>
+            <h2 class="textecentre titre">- Bienvenue sur mon portfolio -</h2>
+            
+            <br>
+
+            <p class="bgul indent"><b>L</b>orem ipsum dolor sit amet, consectetur adipisicing elit. Debitis, expedita amet facere, reprehenderit cumque cupiditate fugit consectetur magni harum ipsam atque unde adipisci recusandae repellat deleniti commodi dolorem ducimus voluptas !</p>
+
+            <br>
+
+            <div>
+
+                <h4 class="textecentre titre">INDEX</h4>
+
+                <ul>
+                    <li><a href="#part1">Premiere Partie</a></li>
+                    <li><a href="#maformation">Ma formation</a></li>
+                </ul>
+            </div>
+
+            <p id="part1"></p>
+
+            <br>
+            <br>
+            <br>
+
+            <h3 class="textecentre titre">- Premiere Partie -</h3>
+
+            <p class="bgul indent"><b>F</b>orem ipsum dolor sit amet consectetur adipisicing elit. Veniam itaque culpa qui debitis ab quo excepturi minus sit? Nemo illo sequi nisi necessitatibus saepe et amet earum laborum, voluptates officiis, iure quis praesentium omnis quidem placeat exercitationem reprehenderit iste enim ab? Sint odio autem non accusantium rerum eaque quod quae dignissimos quis, nobis molestiae dolorum veniam harum a, error excepturi maxime architecto expedita unde quibusdam dolores qui quasi alias aperiam? Maxime aliquam impedit voluptate eligendi assumenda animi nobis, ratione mollitia, repellendus odio nisi, nemo laborum! Sunt voluptate placeat nihil blanditiis vero esse fugit fuga officia sit sint quos ipsam veritatis ex temporibus reprehenderit, odio dicta quidem iste, incidunt a doloribus facere, ad voluptates. Nihil enim facilis magnam, debitis quibusdam, ad exercitationem soluta numquam quaerat animi quis quae? Alias ad repellendus quasi voluptas dolorum, saepe non omnis quidem dolorem provident esse eligendi dolor maxime vero ipsam neque temporibus molestiae at minus animi facere amet iste. Cum doloribus atque odio obcaecati est, reiciendis consectetur necessitatibus dolorem laboriosam soluta explicabo optio eum cumque quod facere rerum quibusdam corporis ipsam. Amet cumque voluptatem veniam! Maiores obcaecati repellendus iure nihil sed aliquam! Aperiam, nostrum maiores quam tenetur omnis ratione quidem modi earum corrupti consequuntur hic quasi temporibus pariatur excepturi laborum repellat quia autem amet enim nihil cupiditate. Quod quos dolorem cumque nemo perferendis beatae nulla hic reiciendis consequatur deserunt error, cupiditate magni, quas eveniet recusandae vel aut laboriosam excepturi provident nostrum quam officiis illum architecto. Accusamus explicabo, nisi minima sit debitis, odio quod nulla nam sed, consequatur rerum dolor? Quam a fugiat soluta laborum laboriosam temporibus eligendi ratione, unde excepturi praesentium fugit autem porro vero laudantium sequi at? Dignissimos molestias soluta esse labore quae iure sed, atque voluptatem magni libero voluptates magnam quis adipisci odit tenetur totam dolorum culpa natus, similique et aut fuga aliquam quas nulla. Necessitatibus voluptatibus, tempore distinctio, deleniti saepe soluta vero, cum omnis exercitationem eaque similique magni? Pariatur, reiciendis aliquam? Dolores vero quaerat quo ea placeat sit nesciunt cupiditate, error accusamus! Eum sint ex labore neque sunt, assumenda nemo aspernatur inventore quae ducimus eveniet obcaecati nam reiciendis voluptatum doloribus ullam sapiente!</p>
+        </div>
+
+        <p id="maformation"></p>
+
+        <br>
+        <br>
+
+        <div>
+            <h3 class="textecentre titre" id="maformation">- Ma formation -</h3>
+
+            <p class="bgul indent"><b>E</b>ligendi ipsum eius in esse dolores odio magni dolorum libero a ad optio, atque possimus nisi quam qui asperiores expedita impedit similique est dignissimos. Est optio quo ipsa voluptate ipsum ullam cum eligendi dolores aliquam? Assumenda, ipsam earum voluptatem ullam voluptatum a necessitatibus, quod natus laboriosam, perspiciatis recusandae impedit magni voluptate cumque velit optio nisi repellat? Modi mollitia placeat adipisci earum vel sapiente accusamus sit, itaque tempora dignissimos! Nihil, corporis deleniti. Placeat temporibus non sapiente odio aspernatur. Distinctio libero quia minima? Iste natus temporibus facere eos quis ipsa! Nemo alias quia quisquam ducimus recusandae, ad ab similique molestiae inventore quos quae laboriosam vel quo impedit accusantium natus maiores odit? Quisquam debitis nam necessitatibus perferendis enim possimus reprehenderit, natus qui illum, in facilis! Vel reprehenderit ipsam dolorem soluta, animi delectus molestias laudantium cupiditate! Eos perspiciatis, veniam saepe possimus inventore laudantium nobis incidunt beatae nam molestiae vel harum quidem, aut assumenda nostrum. Cumque repudiandae doloremque voluptatibus iure a aperiam dolorum doloribus molestiae. Qui facere officiis, neque excepturi suscipit reprehenderit. Cumque molestiae quaerat minus! Dolores error dolorum molestiae atque sunt, doloremque repellat optio pariatur rerum recusandae est id. Illo, nemo dolor explicabo excepturi quod suscipit!</p>
+            <p class="bgul indent"><b>D</b>olor sit amet consectetur adipisicing elit. Ad dolor nesciunt quis inventore, commodi explicabo sunt! Tenetur veniam excepturi dolorem quisquam animi mollitia amet repellat impedit ad omnis sit distinctio, quae voluptatibus pariatur possimus maxime ab aperiam quidem. Voluptates dolore sequi voluptate laudantium explicabo quaerat quibusdam tempore quia incidunt doloremque magni alias, modi, maxime quos consequatur illo ducimus ullam inventore placeat reprehenderit assumenda non saepe. Praesentium quibusdam magnam, in consectetur tempore atque dolor assumenda repellendus? Veniam at architecto non. Sint rem provident dolorum eos. Sequi impedit modi id eos sunt voluptatem labore aspernatur recusandae optio delectus excepturi, nihil, nam magnam soluta. Expedita perspiciatis corrupti quo quae fugiat at nulla ipsa suscipit iste? Illo ipsam suscipit fuga eveniet alias molestiae nam aperiam, ratione aut, excepturi accusamus vitae consectetur ab aliquam fugiat consequatur voluptatem. Harum quibusdam delectus exercitationem expedita molestiae laudantium est illo, reprehenderit facilis ipsam, totam vero autem nobis adipisci nemo! Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi, libero perspiciatis. Reiciendis incidunt quod porro saepe doloremque qui maiores vitae pariatur ullam, veniam cumque ad iste nam animi facilis est. Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse placeat iure ut cum molestias qui nostrum accusantium nobis ducimus consequatur recusandae est ab, voluptas cupiditate, aliquid aut quia? Repellendus, reprehenderit? Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo aspernatur sunt inventore corporis necessitatibus quas hic sequi laudantium rerum ullam eligendi reiciendis tenetur, culpa officia sint omnis minus optio error. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsa neque deleniti in, consectetur consequuntur quisquam repudiandae! Itaque doloribus rem esse id temporibus? Nihil, aperiam beatae dolores a iusto perferendis sapiente.
+            </p>
+        </div>
+
+    </main>
+
+    <hr id="nomarge">
+    
+    <footer>
+        Copyright Nicolas Carpita
+        <br>
+        2023, tout droits réservés
+    </footer>
+
+    <script src="index.js"></script>
+    
+</body>
+</html>

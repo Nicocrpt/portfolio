@@ -22,6 +22,13 @@ header h1 {
     
 }
 
+header adress {
+    color: white;
+    margin-bottom: 8px;
+    margin-top: 0px;
+    margin-left: 8px;
+}
+
 nav {
     margin: auto;
     text-align: center;
